@@ -9,7 +9,16 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Hello I'm John Leo Medina, a BSIT student from University of the Assumption.]</p>
+        <p>[1. Hello I'm John Leo Medina, a BSIT student from University of the Assumption. My hobbies are playing games, watching movies, reading mangas, and playing badminton. I'm from Campo Venzon, Mangga Cacutud, Arayat, Pampanga. I also love watching documentaries about animals and culture of different countries.]</p>
+        
+        <p>[2. 2. Why did you take up IT? I took IT because I want to develop games and websites, also I love computer stuff and I want to be knowlegable.
+
+3. What career do you see yourself exploring after graduation? I want to be a mobile developer or a website developer.
+
+4. What do you expect to learn in this subject? I expect to learn more about web dev.
+
+5. What topics do you want to be discussed in this subject? The different languages that most companies use.]</p>
+        
         <p>
           (Hello I'm Leo a BSIT student.{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
